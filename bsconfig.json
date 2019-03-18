@@ -10,7 +10,7 @@
     "in-source": false
   },
   "suffix": ".bs.js",
-  "bs-dev-dependencies": ["bsdoc"],
+  "bs-dev-dependencies": [],
   "warnings": {
     "error": "+101"
   },
